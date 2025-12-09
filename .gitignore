@@ -1,0 +1,21 @@
+# Python/venv
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS / Editor
+.DS_Store
+.vscode/
+*.swp
+
+# Logs / DB
+*.log
+*.sqlite3
+
+# IDE / env
+.Python
+env/
+.idea/

@@ -1,0 +1,6 @@
+question,correct_answer,user_answer
+"What is 2+2?",4,4
+"Capital of India?","New Delhi","New Delhi"
+"Python is a...","Programming Language","Scripting Language"
+"What does len('abc') return?",3,3
+"Which is mutable?","List","Tuple"
