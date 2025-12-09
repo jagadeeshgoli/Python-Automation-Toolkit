@@ -187,6 +187,5 @@ This project demonstrates:
 
 ---
 
-Made with ❤️ by **Goli Jagadeesh**
-🔗 GitHub: [https://github.com/jagadeeshgoli](https://github.com/jagadeeshgoli)
+Made with  by **Goli Jagadeesh**
 🔗 LinkedIn: [https://linkedin.com/in/jagadeeshgoli](https://linkedin.com/in/jagadeeshgoli)
