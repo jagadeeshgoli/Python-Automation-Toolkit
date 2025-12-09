@@ -188,4 +188,4 @@ This project demonstrates:
 ---
 
 Made with  by **Goli Jagadeesh**
-🔗 LinkedIn: [https://linkedin.com/in/jagadeeshgoli](https://linkedin.com/in/jagadeeshgoli)
+LinkedIn: [https://linkedin.com/in/jagadeeshgoli](https://linkedin.com/in/jagadeeshgoli)
